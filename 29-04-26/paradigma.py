@@ -43,8 +43,7 @@ puede heredar atributos y metodos a una clase "hija", por ejemplo, una clase "An
 TAREA : Junto con la investigacion deben identificar 10 objetos y por cada objeto 
 5 atributos y 3 metodos (acciones). 
 # Prohibido,color marca y modelo, nombre y apellido,
-
-
+#no puede usar plumon,auto,celular,basurero y audifonos 
 
 
 
