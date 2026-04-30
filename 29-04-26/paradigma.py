@@ -34,12 +34,15 @@ clase automovil
 no todos los atributos se pueden modificar, por ejemplo, el numero de serie de un automovil
  no se puede modificar, pero el color si se puede modificar, mi fecha de nacimineto tampoco se puede 
  modificar, pero mi peso si se puede modificar.
- 
+
 
 HERENCIA = es cuando una clase hereda atributos y metodos de otra clase, por ejemplo, una clase "padre" 
 puede heredar atributos y metodos a una clase "hija", por ejemplo, una clase "Animal" puede ser la clase padre de una clase
  "Perro", la clase "Perro" heredaria los atributos y metodos de la clase "Animal".
 
+TAREA : Junto con la investigacion deben identificar 10 objetos y por cada objeto 
+5 atributos y 3 metodos (acciones). 
+# Prohibido,color marca y modelo, nombre y apellido,
 
 
 
