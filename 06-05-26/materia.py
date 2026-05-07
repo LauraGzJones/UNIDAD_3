@@ -70,6 +70,10 @@ print ("SE elimino el elemento del indice 0 su valor era ->,", elemento_cero)
 
 
 
+edades [2]
+
+print(edades)
+
 ''' investigar vectores, arreglos, matrices 
 
 
